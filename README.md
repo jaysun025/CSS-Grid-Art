@@ -1,4 +1,6 @@
 # CSS-Grid-Art
+Some CSS pratice learning how to use CSS Grid.
+
 
 Now it is time to put some of these new layout skillz to work in replicating some very interesting artistic compositions.
 
